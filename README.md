@@ -16,5 +16,5 @@ tensorflow keras 学习笔记
 
 [06_pretrained_model](https://github.com/dzwduan/tensorflow_learn/blob/master/06_pretrained_model.ipynb)
 
-[07_small_data](https://github.com/dzwduan/tensorflow_learn/blob/master/07_small_data.ipynb) to be conintued
+[07_small_data](https://github.com/dzwduan/tensorflow_learn/blob/master/07_small_data.ipynb) 今天没写完
 
