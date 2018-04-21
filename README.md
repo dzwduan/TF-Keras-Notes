@@ -13,3 +13,8 @@ This is my notes of tf and keras
 [04_image_argument](https://github.com/dzwduan/tensorflow_learn/blob/master/04_%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.ipynb)
 
 [05_vgg_build](https://github.com/dzwduan/tensorflow_learn/blob/master/05_vgg_build.ipynb)
+
+[06_pretrained_model](https://github.com/dzwduan/tensorflow_learn/blob/master/06_pretrained_model.ipynb)
+
+[07_small_data](https://github.com/dzwduan/tensorflow_learn/blob/master/07_small_data.ipynb) to be conintued
+
