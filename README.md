@@ -2,6 +2,9 @@
 
 tensorflow keras 学习笔记
 
+主要参考(https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
+
+
 ### Introduction
 
 [01_linear_regression](https://github.com/dzwduan/tensorflow_learn/blob/master/01_linear_regression.ipynb)
