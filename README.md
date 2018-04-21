@@ -1,6 +1,6 @@
 # tensorflow_learn
 
-This is my notes of tf and keras
+tensorflow keras 学习笔记
 
 ### Introduction
 
