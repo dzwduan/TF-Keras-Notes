@@ -1,6 +1,5 @@
-# tensorflow_learn
+# TF-Keras
 
-tensorflow keras 学习笔记
 
 主要参考(https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
 
