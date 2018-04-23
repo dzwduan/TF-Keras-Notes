@@ -20,4 +20,4 @@
 
 [07_small_data](https://github.com/dzwduan/tensorflow_learn/blob/master/07_small_data.ipynb) 
 
-预告：fine tune
+[07_fine_tune](https://github.com/dzwduan/tensorflow_learn/blob/master/08_fine_tune.ipynb) 
