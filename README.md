@@ -21,3 +21,7 @@
 [07_small_data](https://github.com/dzwduan/tensorflow_learn/blob/master/07_small_data.ipynb) 
 
 [08_fine_tune](https://github.com/dzwduan/tensorflow_learn/blob/master/08_fine_tune.ipynb) 
+
+[08_visualize_weight]( https://github.com/dzwduan/TF-Keras-Notes/blob/master/09_visualize_weight.ipynb）
+
+        
